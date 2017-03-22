@@ -45,7 +45,7 @@ This module adds the menu Barcode used to generate and configuration barcodes.
     ],
     'demo': [],
     'test': [],
-    'installable': False,
+    'installable': True,
     'active': False,
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
